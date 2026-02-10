@@ -1,0 +1,72 @@
+{
+  "book_id": "victorian-british-naturalist-colonial-aftermath",
+  "title": "The Taste of Settled Fractures",
+  "tagline": "A naturalist in London receives a crate from his brother's fatal expedition, unearthing a monstrous specimen that forces him to confront the violent legacy of empire and the nature he sought to classify.",
+  "target_words": 65557,
+  "actual_words": 65557,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Haunting of Empire",
+    "Nature as Unknowable Force",
+    "Scientific Hubris and Obsession",
+    "Inherited Guilt and Familial Legacy"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Crate of Other Rains",
+      "words": 5959
+    },
+    {
+      "ch": 2,
+      "title": "Men of Unsettling Equilibrium",
+      "words": 5959
+    },
+    {
+      "ch": 3,
+      "title": "The Scalpel and the Spectre",
+      "words": 5959
+    },
+    {
+      "ch": 4,
+      "title": "A Rain That Travelled",
+      "words": 5959
+    },
+    {
+      "ch": 5,
+      "title": "The Resignation on Lacquered Mahogany",
+      "words": 5959
+    },
+    {
+      "ch": 6,
+      "title": "The Path That Sang in Marrow",
+      "words": 5959
+    },
+    {
+      "ch": 7,
+      "title": "The Silence of Substance",
+      "words": 5959
+    },
+    {
+      "ch": 8,
+      "title": "A Gallery of Verdicts",
+      "words": 5959
+    },
+    {
+      "ch": 9,
+      "title": "Claimed by the Peat Dark",
+      "words": 5959
+    },
+    {
+      "ch": 10,
+      "title": "The Taste of Settled Fractures",
+      "words": 5959
+    },
+    {
+      "ch": 11,
+      "title": "An Object on the Baize",
+      "words": 5959
+    }
+  ]
+}
